@@ -17,7 +17,7 @@ class App extends Component {
   }
 
   addNewTodo = () => {
-    console.warn('not implemente');
+    console.warn('not implemented');
   }
 
   render() {
